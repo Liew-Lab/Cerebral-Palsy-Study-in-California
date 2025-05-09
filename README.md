@@ -1,4 +1,4 @@
-# APCP STUDY: Ambient air pollution(AP) and cerebral palsy (CP) in California
+# Cerebral palsy (CP) study in California
 
 This is a ongoing NIEHS funded R21 project that aims to investigate the association between ambient air pollution in pregnancy period and childhood cerebral palsy using a California birth cohort.
 
