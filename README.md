@@ -1,6 +1,6 @@
 # Cerebral palsy (CP) study in California
 
-This page includes all ongoing studies that used an large statewide cohort of cerebral palsy (CP) in California, to investigate the prenatal exposures to environmental, social, and perinatal factors and the risk of childhood CP.
+This page includes all ongoing studies that use a large statewide cohort of cerebral palsy (CP) in California, aiming to investigate the prenatal exposures to environmental, social, and perinatal factors and the risk of childhood CP.
 
 # Relevant publications can be found below:
 1. Season of Conception and Risk of Cerebral Palsy. https://pmc.ncbi.nlm.nih.gov/articles/PMC10517373/
